@@ -34,8 +34,8 @@ bot.on("ready", async () => {
 const arrayofYoMama = [
 `rietify is so cool`,
 `hah? hotdog.`,
-`vapix is cool`,
-`give me money i hate selfhosting`
+`who is joe`,
+`can i have pizza`
 ]
 
     let index = 0;
