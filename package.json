@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " ",
+    "start": "node ."
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "lexd283",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:monbrey/discord.js#inline-replies",
+    "mathjs": "^9.3.0"
+  }
+}
