@@ -21,3 +21,4 @@ module.exports.help ={
     name: "meme",
     aliases: []
 }
+//hi this is big bus man#8780
