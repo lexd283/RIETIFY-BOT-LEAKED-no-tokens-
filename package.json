@@ -14,6 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "github:monbrey/discord.js#inline-replies",
-    "mathjs": "^9.3.0"
+    "imageapi.js": "^1.4.0",
+    "mathjs": "^9.3.0",
+    "quick.db": "^7.1.3"
   }
 }
